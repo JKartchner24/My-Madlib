@@ -1,3 +1,7 @@
 @import 'variables';
 @import 'components/madlib_form.scss';
 @import 'header';
+
+body {
+	font-family: $font-primary;
+}
